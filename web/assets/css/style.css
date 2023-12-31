@@ -1,0 +1,89 @@
+.menu{
+    margin-top: 40px;
+    background-color: #5cf142;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.menu ul{
+    margin: 0px;
+}
+.menu ul li{
+    padding: 5px 0;
+    list-style: none;
+    float: left;
+    text-align: center;
+    width: 24%;
+    font-size: 20px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #051675;
+
+}
+.menu ul li a i{
+    padding-right:5px;
+}
+.menu ul li a:hover{
+    color: rgb(255, 15, 15);
+    transition: 2 sec ease-in-out;
+}
+.wc{
+    text-align: center;
+}
+.wel{
+    
+    font-size: 100px;
+    color: rgb(255, 1, 1);
+    margin-top: 5px;
+}
+.wel:hover{
+    color: #2112ff;
+    transition:0.30sec ease-in-out;
+}
+.sd{
+    text-align: center;
+}
+.sb{
+    font-size: 100px;
+    color: #30d313;
+    margin-bottom: 5px;
+}
+.sb:hover{
+    color: rgb(255, 7, 7);
+    transition:0.30sec ease-in-out;
+}
+.bd{
+    text-align: center;
+    font-size: 100px;
+    color: rgba(10, 33, 241, 0.89);
+    margin-bottom: 5px;
+}
+.bd:hover{
+    color: rgb(255, 0, 0);
+    transition:0.30sec ease-in-out;
+}
+.ing{
+    text-align: center;
+  
+   
+}
+.ing img{
+    padding: 30px;
+  
+
+}
+
+.g{
+    font-size: 20px;
+}
+.inm{
+    font-size: 20px;
+}
+.hr{
+    font-size: 20px;
+}
+.co{
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: -10px;
+}

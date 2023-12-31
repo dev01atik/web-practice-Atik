@@ -1,0 +1,27 @@
+.manu{
+    margin-top: 5px;
+    overflow: hidden;
+   
+}
+.manu ul {
+    margin: 0px;
+}
+.manu ul li{
+    list-style: none;
+    padding: 10px 0px;
+    font-size: 18px;
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.manu ul li a{
+    text-decoration: none;
+    background: rgb(8, 250, 20);
+}
+.manu ul li a i{
+    padding-right: 5px;
+}
+.manu ul li a:hover{
+    color: rgb(255, 8, 8);
+    transition: 0.30 sec ease-in-out;
+}
